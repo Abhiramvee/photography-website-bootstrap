@@ -1,0 +1,46 @@
+
+body{
+    font-family: 'Fira Sans', sans-serif;
+}
+.head{
+    background-color: black;
+
+}
+.slider{
+    font-size: 48px;
+    line-height: auto;
+}
+.slider .btn-outline-light{
+    font-size: 28px;
+}
+.about p{
+    font-size: 16px;
+}
+.images h5{
+    font-size: 20px;
+}
+.form1{
+    margin-top: 20px;
+}
+#button{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.add{
+    margin-top: 20px;
+}
+
+footer p{
+    
+    font-size: 13px;
+}
+.heading{
+    font-size: 40px;
+}
+.image2{
+    height:570px;
+    width: 450px;
+}
+#form-center{
+    margin-left: 270px;
+}
